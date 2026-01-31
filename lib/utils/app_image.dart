@@ -11,4 +11,5 @@ class AppImage {
   static const String setting = 'assets/setting-2.svg';
   static const String vector = 'assets/Vector.svg';
   static const String wallet = 'assets/wallet-2.svg'; 
+  static const String group = 'assets/Group (1).svg'; 
 } 
